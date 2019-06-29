@@ -1,5 +1,5 @@
 # tarefa_carinho_compras
-Carinha de Compras - Java - Atividade final da Disciplina Orientação a Objetos:
+Carinha de Compras - JavaWeb - Atividade final da Disciplina Orientação a Objetos:
 Sistema para controlar um Carrinho de compra:
 1. O carrinho deve aceitar incluir um ou mais produto e sua quantidade;
 2. O valor unitário do item é o valor cadastrado no produto;
